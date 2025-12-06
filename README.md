@@ -10,7 +10,7 @@
 # 🏗️ Project Structure
 
   ### movie-recommender-system/.
-│── data/.
+### │── data/.
 │   ├── tmdb_5000_movies.csv.
 │   ├── tmdb_5000_credits.csv.
 │
@@ -31,13 +31,13 @@
 │── README.md ###
 
 # 📘 Requirements
-requirements.txt should include:
+/requirements.txt should include:
 pandas
 numpy
 scikit-learn
 streamlit
 pickle-mixin
-requests
+requests/
 
 
 
@@ -65,6 +65,7 @@ Recommends top 5 most similar movies
 High accuracy for movies with strong metadata (genres, cast, keywords)
 
 Lightweight & fast
+
 
 
 
