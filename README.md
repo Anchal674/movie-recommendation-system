@@ -4,8 +4,8 @@
  The system recommends movies to users based on content similarity (genre, cast, keywords, overview, etc.)  using NLP techniques and cosine similarity.
 
 # 🗂️ Dataset
-  tmdb_5000_movies.csv.
-   tmdb_5000_credits.csv
+  ### tmdb_5000_movies.csv.
+  ### tmdb_5000_credits.csv
    
 # 🏗️ Project Structure
 
@@ -65,6 +65,7 @@ Recommends top 5 most similar movies
 High accuracy for movies with strong metadata (genres, cast, keywords)
 
 Lightweight & fast
+
 
 
 
