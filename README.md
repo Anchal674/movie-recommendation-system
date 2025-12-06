@@ -35,13 +35,14 @@ movie-recommender-system/
 
 # 📘 Requirements
  requirements.txt should include:
+ ```
  pandas
 numpy
 scikit-learn
 streamlit
 pickle-mixin
 requests
-
+```
 
 
 # 📦 Installation
@@ -68,6 +69,7 @@ Recommends top 5 most similar movies
 High accuracy for movies with strong metadata (genres, cast, keywords)
 
 Lightweight & fast
+
 
 
 
