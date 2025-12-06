@@ -9,7 +9,7 @@
    
 # 🏗️ Project Structure
 
-  movie-recommender-system/.
+  ### movie-recommender-system/.
 │── data/.
 │   ├── tmdb_5000_movies.csv.
 │   ├── tmdb_5000_credits.csv.
@@ -28,7 +28,7 @@
 │   ├── movie_list.pkl
 │   ├── similarity.pkl
 │
-│── README.md
+│── README.md ###
 
 # 📘 Requirements
 requirements.txt should include:
@@ -65,6 +65,7 @@ Recommends top 5 most similar movies
 High accuracy for movies with strong metadata (genres, cast, keywords)
 
 Lightweight & fast
+
 
 
 
