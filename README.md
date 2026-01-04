@@ -1,6 +1,6 @@
-﻿# 🎬 movie-recommendation-system
+﻿# 🎬 CineSuggest System
  
- A machine learning–based Movie Recommendation System built using Python.
+ A machine learning–based CineSuggest System built using Python.
  The system recommends movies to users based on content similarity (genre, cast, keywords, overview, etc.)  using NLP techniques and cosine similarity.
 
 # 🗂️ Dataset
@@ -11,13 +11,13 @@
 # 🏗️ Project Structure
 
 ```
-movie-recommender-system/
+CineSuggest system/
 │── data/
 │   ├── tmdb_5000_movies.csv
 │   ├── tmdb_5000_credits.csv
 │
 │── notebook/
-│   ├── movie_recommender.ipynb
+│   ├── CineSuggest.ipynb
 │
 │── src/
 │   ├── model.py
@@ -49,7 +49,7 @@ requests
 # 📦 Installation
 # 1️⃣ Clone the repository
 ```
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/your-username/CineSuggest System.git
 cd movie-recommendation-system
 ```
 
@@ -77,6 +77,7 @@ source venv/bin/activate  # Mac/Linux
 . High accuracy for movies with strong metadata (genres, cast, keywords)
 
 . Lightweight & fast
+
 
 
 
